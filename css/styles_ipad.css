@@ -1,0 +1,223 @@
+@media only screen and (min-width: 768px) and (max-width: 1260) {
+ 
+
+
+
+
+/*HEADER*/
+
+.li-nav-header a
+{
+  
+    font-size: 1.3em;
+}
+
+.subscribe-link
+{
+	
+	font-size: 1.2em;
+}
+
+
+.search-button-icon
+{
+	display: none;
+}
+.search-button
+{
+	display: block;
+	background-color: #0065fc;
+	color: white;
+	border: none;
+	border-radius: 0 15px 15px 0;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 1em;
+	font-weight: bold;
+}
+
+
+/*FILTRES*/
+
+
+.filters-flex
+{
+	margin-right: 0px;
+}
+
+.filter-3,.filter-4
+{
+	display: inline-flex;
+}
+
+
+
+/*MAIN*/
+
+/*aside*/
+
+.trends-icon
+{
+	margin-left: 60%;
+}
+
+
+.contener-search-box
+{
+
+	width: 99.99%;
+	padding-left: 10px;
+}
+
+
+.link-aside-search-box
+{
+	display: inline-flex;
+	/*flex-direction: row;*/
+	text-align: center;
+	width: 32%;
+	/*margin: auto ;*/
+}
+
+
+.aside-search-box
+{
+	
+	text-align: left;
+	display: inline-flex;
+	flex-direction: row;
+	width: 100%;
+	margin-bottom: 3%;
+	height: 160px;
+}
+
+
+.aside-search-box-img
+{
+	padding-top: 1px;
+	margin-right: 10px;
+}
+
+
+.legend-aside1 p, .legend-aside3 p
+{
+	
+	padding-bottom: 30px;
+}
+
+
+.legend-aside2 p
+{
+	padding-top: 0;
+	padding-bottom: 3px;
+}
+
+
+/*main*/
+
+.main
+{
+	padding-left: 20px;
+}
+
+
+.main h2
+{
+	margin-left: 17px;
+}
+
+
+.link-search-box
+{
+	display: inline-flex;
+	width: 32%;
+	
+
+}
+
+
+.search-box
+{
+
+	width: 100%;
+	height: 160px;
+
+
+	box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 6px solid white;
+
+}
+
+
+.search-box-img
+{
+	width: 100%;
+	height: 55%;
+	/*object-fit: cover;
+	border-radius:25px 25px 0 0;*/
+	margin-bottom: 10px;
+}
+
+
+/*bottom-main*/
+
+
+.bottom-main
+{
+	padding-left: 20px;
+}
+
+
+.bottom-main h2
+{
+	margin-left: 2%;
+}
+
+
+.link-bottom-search-box
+{
+	display: inline-flex;
+	width: 32%;
+}
+
+
+.bottom-search-box
+{
+
+	width: 100%;
+	height: 160px;
+
+}
+
+
+
+.bottom-search-box-img
+{
+	width: 100%;
+	height: 70%;
+	object-fit: cover;
+	border-radius:25px 25px 0 0;
+}
+
+
+
+/*FOOTER*/
+
+.footer-box
+{
+		display: inline-block;
+		vertical-align: top;
+		width: 32%;	
+}
+
+
+
+
+
+
+
+
+}
+
